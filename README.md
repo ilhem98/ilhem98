@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter projects**
 
-- 🤝 I’m looking for help with **AI models**
+- 🤝 I’m eager to help with **AI models**
 
 - 💬 Ask me about **Artificial intelligence and cybersecurity**
 
