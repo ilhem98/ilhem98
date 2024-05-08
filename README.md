@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ILHEM</h1>
 <h3 align="center">A passionate AI model developer & App developer</h3>
 
-- 🔭 I’m currently working on ** Ai models for cyber security **
+- 🔭 I’m currently working on **Ai models for cyber security**
 
 - 🌱 I’m currently learning **Flutter and building a stable backend with Python**
 
