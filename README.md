@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and building a stable backend with Python**
 
-- 👯 I’m looking to collaborate on **Flutter projects**
+- 👯 I’m looking to collaborate on **React Native/Java projects**
 
 - 🤝 I’m eager to help with **AI models**
 
