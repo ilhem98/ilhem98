@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ILHEM</h1>
-<h3 align="center">A passionate AI model developer & App developer</h3>
+<h3 align="center">Software Engineer & A passionate AI model developer </h3>
 
 - 🔭 I’m currently working on **Ai models for cyber security**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m eager to help with **AI models**
 
-- 💬 Ask me about **Artificial intelligence and cybersecurity**
+- 💬 Ask me about **Cybersecurity & Artificial intelligence **
 
 - 📫 How to reach me **ilhemkacimi98@gmail.com**
 
