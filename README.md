@@ -78,7 +78,7 @@
 
 ### 🔐 Cybersecurity Tools
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" width="40" height="40" alt="Wireshark"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wireshark_icon.svg/120px-Wireshark_icon.svg.png" width="40" height="40" alt="Wireshark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nmap-logo.svg" width="40" height="40" alt="Nmap"/>
   <img src="https://seeklogo.com/images/B/burpsuite-logo-D9DC2DB62F-seeklogo.com.png" width="40" height="40" alt="BurpSuite"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Metasploit_logo_and_wordmark.svg" width="40" height="40" alt="Metasploit"/>
