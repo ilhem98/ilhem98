@@ -87,10 +87,18 @@
 ---
 
 ### 📐 Electronics & Automation
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40" alt="Raspberry Pi"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
+      <br/>Arduino
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40" alt="Raspberry Pi"/>
+      <br/>Raspberry Pi
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge" alt="Simulink"/>
@@ -98,19 +106,30 @@
   <img src="https://img.shields.io/badge/AutoCAD-E40000?style=for-the-badge" alt="AutoCAD"/>
 </p>
 
-
 ---
 
 ### 🎨 UI/UX & Design
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+      <br/>Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop"/>
+      <br/>Photoshop
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/>
+      <br/>Illustrator
+    </td>
+  </tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
 </p>
+
 
 
 
