@@ -79,7 +79,7 @@
 ### 🔐 Cybersecurity Tools
 <p>
 <!-- Wireshark -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40" alt="Wireshark"/>
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg](https://commons.wikimedia.org/wiki/File:Wireshark_icon.svg#/media/File:Wireshark_icon.svg)" width="40" height="40" alt="Wireshark"/>
 
 <!-- Nmap -->
 <img src="https://raw.githubusercontent.com/k4m4/nmap-list/master/nmap-logo.png" width="40" height="40" alt="Nmap"/>
