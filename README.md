@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ILHEM</h1>
-<h3 align="center">Software Engineer & A passionate AI model developer </h3>
+<h3 align="center">Software Engineer & A passionate AI model developer in cybersecurity </h3>
 
 - 🔭 I’m currently working on **Ai models for cyber security**
 
