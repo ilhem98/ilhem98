@@ -77,23 +77,12 @@
 ---
 
 ### 🔐 Cybersecurity Tools
-<p>
-<!-- Wireshark -->
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg](https://commons.wikimedia.org/wiki/File:Wireshark_icon.svg#/media/File:Wireshark_icon.svg)" width="40" height="40" alt="Wireshark"/>
+![Wireshark](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004675?style=for-the-badge&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-3333cc?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-cc0000?style=for-the-badge)
 
-<!-- Nmap -->
-<img src="https://raw.githubusercontent.com/k4m4/nmap-list/master/nmap-logo.png" width="40" height="40" alt="Nmap"/>
-
-<!-- BurpSuite -->
-<img src="https://github.com/r00t-3xp10it/resource-files/raw/master/logo/BurpSuite.png" width="40" height="40" alt="BurpSuite"/>
-
-<!-- Metasploit -->
-<img src="https://raw.githubusercontent.com/techgaun/awesome-metaploit/master/metasploit-logo.png" width="40" height="40" alt="Metasploit"/>
-
-<!-- SQLMap -->
-<img src="https://raw.githubusercontent.com/OWASP/www-community/3195d39f/assets/images/tools/sqlmap.png" width="40" height="40" alt="SQLMap"/>
-
-</p>
 
 ---
 
