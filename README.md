@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ai models for cyber security**
 
-- 🌱 I’m currently learning **Flutter and building a stable backend with Python**
+- 🌱 I’m currently learning **Flutter and building a stable backend with Python/JavaScript**
 
 - 👯 I’m looking to collaborate on **React Native/Java projects**
 
