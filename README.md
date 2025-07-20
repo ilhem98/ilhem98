@@ -78,11 +78,21 @@
 
 ### 🔐 Cybersecurity Tools
 <p>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Wireshark_icon.svg/120px-Wireshark_icon.svg.png" width="40" height="40" alt="Wireshark"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nmap-logo.svg" width="40" height="40" alt="Nmap"/>
-  <img src="https://seeklogo.com/images/B/burpsuite-logo-D9DC2DB62F-seeklogo.com.png" width="40" height="40" alt="BurpSuite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Metasploit_logo_and_wordmark.svg" width="40" height="40" alt="Metasploit"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Sqlmap_logo.png" width="40" height="40" alt="SQLMap"/>
+<!-- Wireshark -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40" alt="Wireshark"/>
+
+<!-- Nmap -->
+<img src="https://raw.githubusercontent.com/k4m4/nmap-list/master/nmap-logo.png" width="40" height="40" alt="Nmap"/>
+
+<!-- BurpSuite -->
+<img src="https://github.com/r00t-3xp10it/resource-files/raw/master/logo/BurpSuite.png" width="40" height="40" alt="BurpSuite"/>
+
+<!-- Metasploit -->
+<img src="https://raw.githubusercontent.com/techgaun/awesome-metaploit/master/metasploit-logo.png" width="40" height="40" alt="Metasploit"/>
+
+<!-- SQLMap -->
+<img src="https://raw.githubusercontent.com/OWASP/www-community/3195d39f/assets/images/tools/sqlmap.png" width="40" height="40" alt="SQLMap"/>
+
 </p>
 
 ---
