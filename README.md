@@ -90,10 +90,14 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" width="40" height="40" alt="Raspberry Pi"/>
- ![Simulink](https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-BA0C2F?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E40000?style=for-the-badge)
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Simulink-FF6600?style=for-the-badge" alt="Simulink"/>
+  <img src="https://img.shields.io/badge/SolidWorks-BA0C2F?style=for-the-badge" alt="SolidWorks"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E40000?style=for-the-badge" alt="AutoCAD"/>
+</p>
+
 
 ---
 
