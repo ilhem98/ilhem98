@@ -140,5 +140,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhem98&show_icons=true" alt="Ilhem's GitHub Stats" />
+  <img src="https://camo.githubusercontent.com/9a63870c4b95af947aab78e27ba85040f060155b37b02aae953ad1a4d136ce7e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d57616c6964417261267468656d653d646973636f72645f6f6c645f626c7572706c6526686964655f626f726465723d66616c7365" alt="GitHub Stats" />
 </p>
