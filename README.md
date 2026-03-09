@@ -144,9 +144,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhem98" alt="Ilhem's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhem98&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ilhem98" alt="Ilhem's GitHub Contribution Graph" />
+  <img src="https://ghchart.rshah.org/ilhem98?bg_color=0d1117&color=58a6ff&line=ffffff&point=ff79c6&hide_border=true" alt="Contribution Graph" />
 </p>
