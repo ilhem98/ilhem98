@@ -142,8 +142,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Stats Card -->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ilhem98&show_icons=true" alt="Ilhem's GitHub Stats" />
 </p>
 
