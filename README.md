@@ -140,6 +140,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhem98&show_icons=true&count_private=true&hide=contribs=false" alt="Ilhem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhem98&show_icons=true" alt="Ilhem's GitHub Stats" />
 </p>
-
