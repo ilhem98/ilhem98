@@ -141,10 +141,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhem98&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&theme=radical" alt="Ilhem's GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhem98" alt="Ilhem's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ilhem98" alt="Ilhem's GitHub Contribution Graph" />
 </p>
