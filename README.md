@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm ILHEM</h1>
-<h3 align="center">Software Engineer & A passionate AI model developer in Cybersecurity</h3>
+<h1 align="center">Hi 👋, I'm Ilhem Kacimi</h1>
+<h3 align="center">Software Engineer passionate about building scalable backend systems, web and mobile applications, and exploring Artificial Intelligence.</h3>
 
-- 🔭 I’m currently working on **AI models for cybersecurity**
+- 🔭 I’m currently building **backend systems, web applications, mobile apps, and AI-powered solutions**
 
-- 🌱 I’m currently learning **Flutter and building a stable backend with Python/JavaScript**
+- 🌱 I’m currently learning **cloud infrastructure, distributed systems, and software architecture**
 
-- 👯 I’m looking to collaborate on **React Native/Java projects**
+- 👯 I’m looking to collaborate on **backend, full-stack, mobile, and AI projects**
 
-- 🤝 I’m eager to help with **AI models**
+- 🤝 I’m happy to contribute to **open-source software**
 
-- 💬 Ask me about **Cybersecurity & Artificial Intelligence**
+- 💬 Ask me about **Express.js, Django, FastAPI, Java, React, React Native, Flutter, Python, JavaScript, and Artificial Intelligence**
 
-- 📫 How to reach me: **ilhemkacimi98@gmail.com**
-
+- 📫 Reach me at **ilhemkacimi98@gmail.com**
 ---
 
 ### 🧠 Connect with me
