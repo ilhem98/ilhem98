@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilhem Kacimi</h1>
+this github stats is not shwog my contrbutions even tho i have been pushign to private repos ecveryday <h1 align="center">Hi 👋, I'm Ilhem Kacimi</h1>
 <h3 align="center">Software Engineer passionate about building scalable backend systems, web and mobile applications, and exploring Artificial Intelligence.</h3>
 
 - 🔭 I’m currently building **backend systems, web applications, mobile apps, and AI-powered solutions**
@@ -137,18 +137,15 @@
   <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
 </p>
 
-### 📊 GitHub Activity
+
+### 📊 GitHub Stats
+
+
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ilhem98&show_icons=true&theme=radical&include_all_commits=true"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhem98&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ilhem98&theme=radical"
-    alt="GitHub Streak"
-  />
+  <img src="https://ghchart.rshah.org/ilhem98?bg_color=0d1117&color=58a6ff&line=ffffff&point=ff79c6&hide_border=true" alt="Contribution Graph" />
 </p>
