@@ -156,7 +156,7 @@ this github stats is not shwog my contrbutions even tho i have been pushign to p
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ilhem98&theme=radical"
+    src="https://ilhem-streak-stats.vercel.app/?user=ilhem98&theme=radical"
     alt="Ilhem's GitHub Streak"
   />
 </p>
