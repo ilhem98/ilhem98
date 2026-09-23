@@ -137,15 +137,18 @@
   <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
 </p>
 
-
-### 📊 GitHub Stats
-
-
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhem98&theme=radical" alt="Streak Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ilhem98&show_icons=true&theme=radical&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ilhem98?bg_color=0d1117&color=58a6ff&line=ffffff&point=ff79c6&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://streak-stats.demolab.com/?user=ilhem98&theme=radical"
+    alt="GitHub Streak"
+  />
 </p>
