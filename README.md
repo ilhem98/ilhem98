@@ -145,9 +145,6 @@ this github stats is not shwog my contrbutions even tho i have been pushign to p
     src="https://github-readme-stats-coral-five-41.vercel.app/api?username=ilhem98&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
     alt="Ilhem's GitHub Stats"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats-coral-five-41.vercel.app/api/top-langs/?username=ilhem98&layout=compact&count_private=true&theme=radical"
     alt="Ilhem's Top Languages"
