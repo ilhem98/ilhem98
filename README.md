@@ -140,12 +140,30 @@ this github stats is not shwog my contrbutions even tho i have been pushign to p
 
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhem98&theme=radical" alt="Streak Stats" />
+  <img
+    src="https://github-readme-stats-coral-five-41.vercel.app/api?username=ilhem98&show_icons=true&include_all_commits=true&count_private=true&theme=radical"
+    alt="Ilhem's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ilhem98?bg_color=0d1117&color=58a6ff&line=ffffff&point=ff79c6&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-stats-coral-five-41.vercel.app/api/top-langs/?username=ilhem98&layout=compact&count_private=true&theme=radical"
+    alt="Ilhem's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ilhem98&theme=radical"
+    alt="Ilhem's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ilhem98&theme=react-dark&hide_border=true"
+    alt="Ilhem's GitHub Activity Graph"
+  />
 </p>
