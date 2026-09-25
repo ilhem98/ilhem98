@@ -1,4 +1,4 @@
-this github stats is not shwog my contrbutions even tho i have been pushign to private repos ecveryday <h1 align="center">Hi 👋, I'm Ilhem Kacimi</h1>
+ <h1 align="center">Hi 👋, I'm Ilhem Kacimi</h1>
 <h3 align="center">Software Engineer passionate about building scalable backend systems, web and mobile applications, and exploring Artificial Intelligence.</h3>
 
 - 🔭 I’m currently building **backend systems, web applications, mobile apps, and AI-powered solutions**
